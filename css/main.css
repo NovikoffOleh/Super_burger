@@ -14,12 +14,12 @@ h4 {
 	font-family: 'Merriweather', serif;
 
 }
-body{
+/*body{
 	background-image: url(../img/logo/fon.jpg);
 	background-size: 100%;
-	
+	background-repeat: no-repeat;
 	opacity: 0.9;
-}
+}*/
 
 .header {
 	max-width: 1200px;
@@ -27,7 +27,7 @@ body{
 	padding-top: 50px;
 	padding-bottom: 50px;
 	background-image: linear-gradient(rgba(47, 48, 58, 0.7), rgba(47, 48, 58, 0.7)),
-		url(../img/pitsa.jpg);
+		url(../img/logo/fon.jpg);
 	background-position: center;
 	margin-bottom: 30px;
 	margin-top: 15px;
@@ -246,7 +246,7 @@ body{
 
 .social {
 	padding: 15px;
-	opacity: 0.9;
+	/*opacity: 0.9;
 	background-color: #f9f5e6;
 	border-radius: 0.25rem;
 	/*column-gap: 30px;
