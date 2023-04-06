@@ -1,0 +1,98 @@
+[
+	{
+		"id": 1,
+		"title": "Метрова амерікано",
+		"itemsInBox": 6,
+		"weight": 180,
+		"price": 300,
+		"imgSrc": "amerikano-metrovaya.jpeg"
+		},
+	{
+		"id": 2,
+		"title": "Амерікано",
+		"itemsInBox": 6,
+		"weight": 205,
+		"price": 250,
+		"imgSrc": "amerikano.jpeg"
+	},
+	{
+		"id": 3,
+		"title": "Метрова гурмео",
+		"itemsInBox": 6,
+		"weight": 182,
+		"price": 230,
+		"imgSrc": "gurmeo-metrovaya.jpeg"
+	},
+	{
+		"id": 4,
+		"title": "Карбонара",
+		"itemsInBox": 6,
+		"weight": 230,
+		"price": 320,
+		"imgSrc": "karbonara.jpeg"
+	},
+	{
+		"id": 5,
+		"title": "Мафія метрова",
+		"itemsInBox": 6,
+		"weight": 180,
+		"price": 300,
+		"imgSrc": "mafiya-metrovaya.jpeg"
+	},
+	{
+		"id": 6,
+		"title": "Мафія",
+		"itemsInBox": 6,
+		"weight": 205,
+		"price": 250,
+		"imgSrc": "mafiya.jpeg"
+	},
+	{
+		"id": 7,
+		"title": "Маргаріта",
+		"itemsInBox": 6,
+		"weight": 182,
+		"price": 230,
+		"imgSrc": "margarita.jpeg"
+	},
+	{
+		"id": 8,
+		"title": "Мексикано",
+		"itemsInBox": 6,
+		"weight": 230,
+		"price": 320,
+		"imgSrc": "mexicano.jpeg"
+	},
+	{
+		"id": 9,
+		"title": "Неополітано",
+		"itemsInBox": 6,
+		"weight": 230,
+		"price": 320,
+		"imgSrc": "neopolitano.jpeg"
+	},
+	{
+		"id": 10,
+		"title": "Норвезька",
+		"itemsInBox": 6,
+		"weight": 182,
+		"price": 230,
+		"imgSrc": "norvezhskaya.jpeg"
+	},
+	{
+		"id":11,
+		"title": "Трюфельна",
+		"itemsInBox": 6,
+		"weight": 230,
+		"price": 320,
+		"imgSrc": "tryufalini.jpeg"
+	},
+	{
+		"id": 12,
+		"title": "Веганська",
+		"itemsInBox": 6,
+		"weight": 230,
+		"price": 320,
+		"imgSrc": "vegan.jpeg"
+	}
+]
