@@ -15,8 +15,9 @@ h4 {
 
 }
 body{
-	background-image: url(../img/logo/fon.jpeg);
-	background-size: contain;
+	background-image: url(../img/logo/fon.jpg);
+	background-size: 100%;
+	
 	opacity: 0.9;
 }
 
@@ -25,7 +26,7 @@ body{
 	margin: 0 auto;
 	padding-top: 50px;
 	padding-bottom: 50px;
-	background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
+	background-image: linear-gradient(rgba(47, 48, 58, 0.7), rgba(47, 48, 58, 0.7)),
 		url(../img/pitsa.jpg);
 	background-position: center;
 	margin-bottom: 30px;

@@ -1,98 +1,66 @@
 [
 	{
 		"id": 1,
-		"title": "Метрова амерікано",
+		"title": "Сирна тарілка",
 		"itemsInBox": 6,
 		"weight": 180,
 		"price": 300,
-		"imgSrc": "amerikano-metrovaya.jpeg"
+		"imgSrc": "syrnye-palochki.jpeg"
 		},
 	{
 		"id": 2,
-		"title": "Амерікано",
+		"title": "Пивна піна",
 		"itemsInBox": 6,
 		"weight": 205,
 		"price": 250,
-		"imgSrc": "amerikano.jpeg"
+		"imgSrc": "pivnaya-tarelka.jpeg"
 	},
 	{
 		"id": 3,
-		"title": "Метрова гурмео",
+		"title": "Кінг Йорк",
 		"itemsInBox": 6,
 		"weight": 182,
 		"price": 230,
-		"imgSrc": "gurmeo-metrovaya.jpeg"
+		"imgSrc": "burger-king-jork.jpeg"
 	},
 	{
 		"id": 4,
-		"title": "Карбонара",
+		"title": "Дабл чізбургер",
 		"itemsInBox": 6,
 		"weight": 230,
 		"price": 320,
-		"imgSrc": "karbonara.jpeg"
+		"imgSrc": "dabl-chizburger.jpeg"
 	},
 	{
 		"id": 5,
-		"title": "Мафія метрова",
+		"title": "Супер гамбургер",
 		"itemsInBox": 6,
 		"weight": 180,
 		"price": 300,
-		"imgSrc": "mafiya-metrovaya.jpeg"
+		"imgSrc": "gamburger.jpeg"
 	},
 	{
 		"id": 6,
-		"title": "Мафія",
+		"title": "Обідня перерва",
 		"itemsInBox": 6,
 		"weight": 205,
 		"price": 250,
-		"imgSrc": "mafiya.jpeg"
+		"imgSrc": "kombo1.jpeg"
 	},
 	{
 		"id": 7,
-		"title": "Маргаріта",
+		"title": "Ланч",
 		"itemsInBox": 6,
 		"weight": 182,
 		"price": 230,
-		"imgSrc": "margarita.jpeg"
+		"imgSrc": "kombo3.jpeg"
 	},
 	{
 		"id": 8,
-		"title": "Мексикано",
+		"title": "Підвечірок",
 		"itemsInBox": 6,
 		"weight": 230,
 		"price": 320,
-		"imgSrc": "mexicano.jpeg"
-	},
-	{
-		"id": 9,
-		"title": "Неополітано",
-		"itemsInBox": 6,
-		"weight": 230,
-		"price": 320,
-		"imgSrc": "neopolitano.jpeg"
-	},
-	{
-		"id": 10,
-		"title": "Норвезька",
-		"itemsInBox": 6,
-		"weight": 182,
-		"price": 230,
-		"imgSrc": "norvezhskaya.jpeg"
-	},
-	{
-		"id":11,
-		"title": "Трюфельна",
-		"itemsInBox": 6,
-		"weight": 230,
-		"price": 320,
-		"imgSrc": "tryufalini.jpeg"
-	},
-	{
-		"id": 12,
-		"title": "Веганська",
-		"itemsInBox": 6,
-		"weight": 230,
-		"price": 320,
-		"imgSrc": "vegan.jpeg"
+		"imgSrc": "kombo3.jpeg"
 	}
 ]
