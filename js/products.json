@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"title": "Сирна тарілка",
-		"itemsInBox": 6,
+		"itemsInBox": 5,
 		"weight": 180,
 		"price": 300,
 		"imgSrc": "syrnye-palochki.jpeg"
@@ -10,7 +10,7 @@
 	{
 		"id": 2,
 		"title": "Пивна піна",
-		"itemsInBox": 6,
+		"itemsInBox": 7,
 		"weight": 205,
 		"price": 250,
 		"imgSrc": "pivnaya-tarelka.jpeg"
@@ -18,7 +18,7 @@
 	{
 		"id": 3,
 		"title": "Кінг Йорк",
-		"itemsInBox": 6,
+		"itemsInBox": 5,
 		"weight": 182,
 		"price": 230,
 		"imgSrc": "burger-king-jork.jpeg"
@@ -26,7 +26,7 @@
 	{
 		"id": 4,
 		"title": "Дабл чізбургер",
-		"itemsInBox": 6,
+		"itemsInBox": 9,
 		"weight": 230,
 		"price": 320,
 		"imgSrc": "dabl-chizburger.jpeg"
@@ -34,7 +34,7 @@
 	{
 		"id": 5,
 		"title": "Супер гамбургер",
-		"itemsInBox": 6,
+		"itemsInBox": 4,
 		"weight": 180,
 		"price": 300,
 		"imgSrc": "gamburger.jpeg"
@@ -42,7 +42,7 @@
 	{
 		"id": 6,
 		"title": "Обідня перерва",
-		"itemsInBox": 6,
+		"itemsInBox": 8,
 		"weight": 205,
 		"price": 250,
 		"imgSrc": "kombo1.jpeg"
@@ -50,7 +50,7 @@
 	{
 		"id": 7,
 		"title": "Ланч",
-		"itemsInBox": 6,
+		"itemsInBox": 3,
 		"weight": 182,
 		"price": 230,
 		"imgSrc": "kombo3.jpeg"
@@ -58,7 +58,7 @@
 	{
 		"id": 8,
 		"title": "Підвечірок",
-		"itemsInBox": 6,
+		"itemsInBox": 5,
 		"weight": 230,
 		"price": 320,
 		"imgSrc": "kombo3.jpeg"
